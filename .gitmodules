@@ -7,3 +7,6 @@
 [submodule "api"]
 	path = api
 	url = https://github.com/mathiscapart/travel-paradise-api.git
+[submodule "visitor-web"]
+	path = visitor-web
+	url = https://github.com/mathiscapart/travel-paradise-visitor-web.git
