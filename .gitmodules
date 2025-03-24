@@ -1,0 +1,3 @@
+[submodule "organisation-web"]
+	path = organisation-web
+	url = https://github.com/mathiscapart/travel-paradise-organisation-web.git
